@@ -13,5 +13,5 @@ const CONFIG = {
     btnReply: 'Gửi cho Vanh cute <3',
     reply: 'Thích thì ngồi không thích cũng ngồi <33333333',
     mess: 'Tớ biết mà 🥰. Hihi 😘😘',
-    messLink : 'htt://m.me/emm.van.583
+    messLink : 'htt://m.me/emm.van.583'
 }
